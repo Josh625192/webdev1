@@ -1,10 +1,7 @@
-body {
-    max-width: 30rem;
-    margin: 0 auto;
-}
 p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: small;
+    margin: 4%;
 }
 body {
     font-family: 'Libre Bodoni', sans-serif;
@@ -12,6 +9,6 @@ body {
     max-width: 700px;
     margin: 0 auto;
     padding: 12px;
-    color: #291;
-    background-color: #000000;
+    color: #FFEBCD;
+    background-color: #141515;
   }

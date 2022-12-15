@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Bodoni&display=swap');
+
+body {
+  font-family: 'Libre Bodoni', sans-serif;
+  font-size: 20px;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 12px;
+  color: #222;
+  background-color: #000000;
+  
+}
+
+h1{
+  font-family: 'Cinzel', sans-serif;
+  color: snow;
+}
+
+h2 {
+  font-family: 'Cinzel', sans-serif;
+  color: snow;
+}
+
+h3 {
+  font-family: 'Cinzel', sans-serif;
+  color: snow;
+}
+
+p {
+  color: ghostwhite;
+  line-height: 1.75;
+}
+
+ul{
+  color: blanchedalmond;
+}
+
+img {
+  width: 100%;
+  display: block;
+  border-style: groove;
+  border-color: gold;
+  border-width: 75px;
+}
+
+footer {
+  text-align: center;
+}
